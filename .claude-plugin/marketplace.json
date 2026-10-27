@@ -1,0 +1,14 @@
+{
+  "name": "upsideflow",
+  "description": "Плагины Upsideflow для Claude Code",
+  "owner": {
+    "name": "Upsideflow"
+  },
+  "plugins": [
+    {
+      "name": "assistant",
+      "source": "./plugins/assistant",
+      "description": "Помощник Upsideflow в Telegram: план дня, CRM, подбор объектов, разбор почты. Почта, календарь и диск — только чтение и черновики; запись в CRM — только после вашего «да»."
+    }
+  ]
+}
