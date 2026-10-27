@@ -1,6 +1,6 @@
 {
   "name": "assistant",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Помощник Upsideflow: личный ассистент брокера и сотрудника в Telegram — план дня, CRM Upsideflow, подбор объектов, разбор почты. Почта, календарь и диск — только чтение и черновики; запись в CRM — только после явного «да».",
   "author": {
     "name": "Upsideflow"
